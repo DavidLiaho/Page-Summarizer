@@ -1,0 +1,4 @@
+env.ts
+.plasmo/
+node_modules/
+build/
