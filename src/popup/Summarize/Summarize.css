@@ -1,3 +1,15 @@
 .Summarize {
 	overflow-y: auto;
 }
+
+.Summarize > select {
+    background-color: #ffffff;
+    border: 2px solid #e2e8f0;
+    border-radius: 8px;
+    margin-top: 3px;
+    padding: 9px 12px;
+    font-size: 16px;
+    color: #1a202c;
+    max-width: 130px;
+    cursor: pointer;
+  }
