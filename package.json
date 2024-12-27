@@ -1,8 +1,8 @@
 {
     "name": "page-summarizer",
     "displayName": "Page Summarizer",
-    "version": "1.0.0",
-    "description": "Summarizing the content the current page you're browsing in Hebrew.",
+    "version": "1.0.1",
+    "description": "Summarizing the content of the current page you're browsing in any language!",
     "author": "David Liahovitsky",
     "scripts": {
         "dev": "plasmo dev",
