@@ -39,7 +39,7 @@ export function Summarize(): JSX.Element {
     return (
         <div className="Summarize">
 
-            <select onChange={handleSelectChange}>
+            <select onChange={handleSelectChange} value={language}>
                 {languages.map(l => <option key={l}>{l}</option>)}
             </select>
 
