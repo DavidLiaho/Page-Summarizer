@@ -1,7 +1,7 @@
 {
     "name": "page-summarizer",
     "displayName": "Page Summarizer",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Summarizing the content of the current page you're browsing in any language!",
     "author": "David Liahovitsky",
     "scripts": {
